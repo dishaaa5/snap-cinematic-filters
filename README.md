@@ -1,1 +1,47 @@
-# snap-cinematic-filters
+# 🎬 Snap Cinematic Filters using Hand Gestures
+
+Control cinematic camera filters using a **finger snap gesture** in real time!
+Built with **OpenCV** and **MediaPipe Hands**.
+
+---
+
+## ✨ Features
+- 👋 Hand gesture detection (MediaPipe)
+- 🤏 Snap gesture to switch filters
+- 🎨 Cinematic filters:
+  - Normal
+  - Warm
+  - Cool
+  - Matte
+  - Vintage
+  - Vignette
+- ⚡ Real-time webcam processing
+
+---
+
+## 🛠 Tech Stack
+- Python
+- OpenCV
+- MediaPipe
+- NumPy
+
+---
+
+## 📌 Install Dependencies
+pip install -r requirements.txt
+
+---
+
+## ▶️ Run the project
+python snap_filters.py
+
+---
+
+## 🎥 Demo Video
+
+
+
+--- 
+
+## 👩‍💻 Author
+Disha
